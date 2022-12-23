@@ -1,0 +1,1 @@
+//I didn't know how to use LinkedLists so the given solution is the only one I can think of now
